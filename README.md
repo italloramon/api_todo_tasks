@@ -1,7 +1,7 @@
 # How to use
 
 Requirements: 
-- Install django and django rest frameworkd
+- Install django and django rest framework
 
     ```pip install django```<br>
     ```pip install djangorestframework```
